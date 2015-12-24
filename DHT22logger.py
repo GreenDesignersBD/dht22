@@ -19,12 +19,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE
 
-# This script is intended to use with Adafruit DHT22 temperature and humidity sensors
-# and with sensor libraries that Adafruit provides for them. This script alone, without
-# sensor/s to provide data for it doesn't really do anyting useful.
-# For guidance how to create your own temperature logger that makes use of this script,
-# Adafruit DHT22 sensors and raspberry pi, visit : 
-# http://www.instructables.com/id/Raspberry-PI-and-DHT22-temperature-and-humidity-lo/
+
 
 #!/usr/bin/python2
 #coding=utf-8
